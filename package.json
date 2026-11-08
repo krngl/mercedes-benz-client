@@ -1,6 +1,6 @@
 {
   "name": "@krngl/mercedes-benz-client",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "main": "./build/src",
   "types": "./build/src/index.d.ts",
   "repository": "git@github.com:krngl/mercedes-benz-client.git",
