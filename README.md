@@ -8,7 +8,7 @@ Based on reverse-engineering from [ReneNulschDE/mbapi2020](https://github.com/Re
 ## Install
 
 ```sh
-yarn add @jakobgoerke/mercedes-benz-client
+yarn add @krngl/mercedes-benz-client
 ```
 
 ## Authentication
@@ -30,7 +30,7 @@ Don't seed a long-lived process from a stored `refreshToken`. Mercedes rotates t
 Instead, keep `deviceId` stable (see above) but call `login()` with the account email/password on startup **and** on an interval well inside a day:
 
 ```ts
-import { MercedesBenzClient, VehicleEventStream } from '@jakobgoerke/mercedes-benz-client';
+import { MercedesBenzClient, VehicleEventStream } from '@krngl/mercedes-benz-client';
 
 const client = new MercedesBenzClient({ deviceId: process.env.MERCEDES_DEVICE_ID });
 await client.login(process.env.MERCEDES_EMAIL!, process.env.MERCEDES_PASSWORD!);
