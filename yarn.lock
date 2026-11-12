@@ -937,7 +937,7 @@ __metadata:
     "@tsconfig/node24": "npm:24.0.4"
     "@types/jest": "npm:30.0.0"
     "@types/node": "npm:26.6.6"
-    "@types/ws": "npm:8.18.1"
+    "@types/ws": "npm:8.18.2"
     axios: "npm:1.18.1"
     jest: "npm:30.4.2"
     protobufjs: "npm:8.7.0"
@@ -946,7 +946,7 @@ __metadata:
     ts-jest: "npm:29.4.11"
     ts-node: "npm:10.9.2"
     typescript: "npm:6.0.3"
-    ws: "npm:8.21.0"
+    ws: "npm:8.22.2"
     zod: "npm:4.4.3"
   languageName: unknown
   linkType: soft
@@ -1175,12 +1175,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/ws@npm:8.18.1":
-  version: 8.18.1
-  resolution: "@types/ws@npm:8.18.1"
+"@types/ws@npm:8.18.2":
+  version: 8.18.2
+  resolution: "@types/ws@npm:8.18.2"
   dependencies:
     "@types/node": "npm:*"
-  checksum: 10c0/61aff1129143fcc4312f083bc9e9e168aa3026b7dd6e70796276dcfb2c8211c4292603f9c4864fae702f2ed86e4abd4d38aa421831c2fd7f856c931a481afbab
+  checksum: 10c0/8cf79499d26df06ffc27109fc86f1400371a5932082a4c1269be3f11e22b9e5a403a4ba2c1a3245d5fae420c270571aa833142a3d7fdce8f6cd24a45c52a98e4
   languageName: node
   linkType: hard
 
@@ -4352,9 +4352,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ws@npm:8.21.0":
-  version: 8.21.0
-  resolution: "ws@npm:8.21.0"
+"ws@npm:8.22.2":
+  version: 8.22.2
+  resolution: "ws@npm:8.22.2"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ">=5.0.2"
@@ -4363,7 +4363,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: 10c0/ef4a243476283fc49bc7550966c4af4aa0eef56273837211e700de3b664e08604a760cdddcb5ba43c049140e74ccfec5b0ee0bb439e08c2adf9138902fdde5f9
+  checksum: 10c0/77e7f9b2a4b790419bbc799b519a74e856ad0adb46ba0b22445f96d493ca6d4c8758643dc07f1de1f0609ed318bc329571d09a3e6b5327677b5ec31aca730a45
   languageName: node
   linkType: hard
 
