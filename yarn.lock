@@ -381,20 +381,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@biomejs/biome@npm:2.6.6":
-  version: 2.6.6
-  resolution: "@biomejs/biome@npm:2.6.6"
+"@biomejs/biome@npm:2.6.7":
+  version: 2.6.7
+  resolution: "@biomejs/biome@npm:2.6.7"
   dependencies:
-    "@biomejs/cli-android-arm64": "npm:2.6.6"
-    "@biomejs/cli-android-x64": "npm:2.6.6"
-    "@biomejs/cli-darwin-arm64": "npm:2.6.6"
-    "@biomejs/cli-darwin-x64": "npm:2.6.6"
-    "@biomejs/cli-linux-arm64": "npm:2.6.6"
-    "@biomejs/cli-linux-arm64-musl": "npm:2.6.6"
-    "@biomejs/cli-linux-x64": "npm:2.6.6"
-    "@biomejs/cli-linux-x64-musl": "npm:2.6.6"
-    "@biomejs/cli-win32-arm64": "npm:2.6.6"
-    "@biomejs/cli-win32-x64": "npm:2.6.6"
+    "@biomejs/cli-android-arm64": "npm:2.6.7"
+    "@biomejs/cli-android-x64": "npm:2.6.7"
+    "@biomejs/cli-darwin-arm64": "npm:2.6.7"
+    "@biomejs/cli-darwin-x64": "npm:2.6.7"
+    "@biomejs/cli-linux-arm64": "npm:2.6.7"
+    "@biomejs/cli-linux-arm64-musl": "npm:2.6.7"
+    "@biomejs/cli-linux-x64": "npm:2.6.7"
+    "@biomejs/cli-linux-x64-musl": "npm:2.6.7"
+    "@biomejs/cli-win32-arm64": "npm:2.6.7"
+    "@biomejs/cli-win32-x64": "npm:2.6.7"
   dependenciesMeta:
     "@biomejs/cli-android-arm64":
       optional: true
@@ -418,76 +418,76 @@ __metadata:
       optional: true
   bin:
     biome: bin/biome
-  checksum: 10c0/1040bceed5464784420157781daabb3408017b5ced3acd7cbe86934b9e8ef41638b6544fde21a64b7353afaa4d6be390938fb40d5c17f698df1e349b2b0b70ea
+  checksum: 10c0/2ad0a8076ce352386dd14f6170eb1ddd8e9ef5b21d6b195a0b92e0a0216b541b85d51eb41432767d00f756c20c47960ca50c475369626117c9e4dc4d12174f91
   languageName: node
   linkType: hard
 
-"@biomejs/cli-android-arm64@npm:2.6.6":
-  version: 2.6.6
-  resolution: "@biomejs/cli-android-arm64@npm:2.6.6"
+"@biomejs/cli-android-arm64@npm:2.6.7":
+  version: 2.6.7
+  resolution: "@biomejs/cli-android-arm64@npm:2.6.7"
   conditions: os=android & cpu=arm64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-android-x64@npm:2.6.6":
-  version: 2.6.6
-  resolution: "@biomejs/cli-android-x64@npm:2.6.6"
+"@biomejs/cli-android-x64@npm:2.6.7":
+  version: 2.6.7
+  resolution: "@biomejs/cli-android-x64@npm:2.6.7"
   conditions: os=android & cpu=x64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-darwin-arm64@npm:2.6.6":
-  version: 2.6.6
-  resolution: "@biomejs/cli-darwin-arm64@npm:2.6.6"
+"@biomejs/cli-darwin-arm64@npm:2.6.7":
+  version: 2.6.7
+  resolution: "@biomejs/cli-darwin-arm64@npm:2.6.7"
   conditions: os=darwin & cpu=arm64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-darwin-x64@npm:2.6.6":
-  version: 2.6.6
-  resolution: "@biomejs/cli-darwin-x64@npm:2.6.6"
+"@biomejs/cli-darwin-x64@npm:2.6.7":
+  version: 2.6.7
+  resolution: "@biomejs/cli-darwin-x64@npm:2.6.7"
   conditions: os=darwin & cpu=x64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-arm64-musl@npm:2.6.6":
-  version: 2.6.6
-  resolution: "@biomejs/cli-linux-arm64-musl@npm:2.6.6"
+"@biomejs/cli-linux-arm64-musl@npm:2.6.7":
+  version: 2.6.7
+  resolution: "@biomejs/cli-linux-arm64-musl@npm:2.6.7"
   conditions: os=linux & cpu=arm64 & libc=musl
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-arm64@npm:2.6.6":
-  version: 2.6.6
-  resolution: "@biomejs/cli-linux-arm64@npm:2.6.6"
+"@biomejs/cli-linux-arm64@npm:2.6.7":
+  version: 2.6.7
+  resolution: "@biomejs/cli-linux-arm64@npm:2.6.7"
   conditions: os=linux & cpu=arm64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-x64-musl@npm:2.6.6":
-  version: 2.6.6
-  resolution: "@biomejs/cli-linux-x64-musl@npm:2.6.6"
+"@biomejs/cli-linux-x64-musl@npm:2.6.7":
+  version: 2.6.7
+  resolution: "@biomejs/cli-linux-x64-musl@npm:2.6.7"
   conditions: os=linux & cpu=x64 & libc=musl
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-x64@npm:2.6.6":
-  version: 2.6.6
-  resolution: "@biomejs/cli-linux-x64@npm:2.6.6"
+"@biomejs/cli-linux-x64@npm:2.6.7":
+  version: 2.6.7
+  resolution: "@biomejs/cli-linux-x64@npm:2.6.7"
   conditions: os=linux & cpu=x64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@biomejs/cli-win32-arm64@npm:2.6.6":
-  version: 2.6.6
-  resolution: "@biomejs/cli-win32-arm64@npm:2.6.6"
+"@biomejs/cli-win32-arm64@npm:2.6.7":
+  version: 2.6.7
+  resolution: "@biomejs/cli-win32-arm64@npm:2.6.7"
   conditions: os=win32 & cpu=arm64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-win32-x64@npm:2.6.6":
-  version: 2.6.6
-  resolution: "@biomejs/cli-win32-x64@npm:2.6.6"
+"@biomejs/cli-win32-x64@npm:2.6.7":
+  version: 2.6.7
+  resolution: "@biomejs/cli-win32-x64@npm:2.6.7"
   conditions: os=win32 & cpu=x64
   languageName: node
   linkType: hard
@@ -953,9 +953,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@krngl/mercedes-benz-client@workspace:."
   dependencies:
-    "@biomejs/biome": "npm:2.6.6"
+    "@biomejs/biome": "npm:2.6.7"
     "@jest/globals": "npm:30.5.2"
-    "@tsconfig/node24": "npm:24.0.5"
+    "@tsconfig/node24": "npm:24.0.6"
     "@types/jest": "npm:30.0.0"
     "@types/node": "npm:26.6.6"
     "@types/ws": "npm:8.18.2"
@@ -967,7 +967,7 @@ __metadata:
     ts-jest: "npm:29.4.15"
     ts-node: "npm:10.9.2"
     typescript: "npm:6.0.3"
-    ws: "npm:8.22.2"
+    ws: "npm:8.23.0"
     zod: "npm:4.6.7"
   languageName: unknown
   linkType: soft
@@ -1202,10 +1202,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tsconfig/node24@npm:24.0.5":
-  version: 24.0.5
-  resolution: "@tsconfig/node24@npm:24.0.5"
-  checksum: 10c0/cea0c13ac00121e210f69823104d69081c99cf98c801a0772b6df5b51b3412e188084d74b6d2a42b33f29e3cf99298faf02c0baed41d336f5ef8828cc04d458f
+"@tsconfig/node24@npm:24.0.6":
+  version: 24.0.6
+  resolution: "@tsconfig/node24@npm:24.0.6"
+  checksum: 10c0/804ad3d4673e631b626a9debee8d688d27a13aeddec24d59d6a09737df856d89c705dfbc801e2fd7c81f672a650e04df62585ab3f216a18ef90fc7cd579be2c1
   languageName: node
   linkType: hard
 
@@ -4423,9 +4423,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ws@npm:8.22.2":
-  version: 8.22.2
-  resolution: "ws@npm:8.22.2"
+"ws@npm:8.23.0":
+  version: 8.23.0
+  resolution: "ws@npm:8.23.0"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ">=5.0.2"
@@ -4434,7 +4434,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: 10c0/77e7f9b2a4b790419bbc799b519a74e856ad0adb46ba0b22445f96d493ca6d4c8758643dc07f1de1f0609ed318bc329571d09a3e6b5327677b5ec31aca730a45
+  checksum: 10c0/1de9b70701c03cdb1b22abd17a1488dc6d22b4dc36a8c32b173d955356ea3634e78aea8ec734a78201dbb34f5a402d9603df32ef267bd477228cd54ae158e2f8
   languageName: node
   linkType: hard
 
